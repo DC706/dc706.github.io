@@ -1,2 +1,2 @@
-# dc706.github.io
-DC706 Website
+# dc-706.github.io
+DC 706 Website
