@@ -1,2 +1,2 @@
-# dc706.github.io
+# dc706.org
 DC706 Website
